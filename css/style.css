@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.end-game{
+    width: 250px;
+    height: 150px;
+    background-color: darkred;
+    color:white;
+    display: none;
+   position: absolute;
+   top:40%;
+  left:40%;
+
+}
+
+.end-game p{
+    font-size: 1.5rem;
+}
+
+.refresh{
+    border-radius: 10px;
+    width:150px;
+    height: 50px;
+    background-color: aqua;
+    font-size: 1rem;
+    font-weight: bold;
+}
